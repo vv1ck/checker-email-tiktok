@@ -1,5 +1,5 @@
 # checker-email-tiktok
-<img src="/ig.png"></img>
+<img src="/9A857BD9-EB15-4C62-9314-1E18CAFDFAA6.jpeg"></img>
 Checker Email For TikTok ☑️
 - 
 Tool features :
@@ -10,6 +10,7 @@ NEW-EMAIL-TIKTOK.txt
 - Automatic Thread 150
 - Supports all devices
 -----------------------
+
 install in kali linux :
 <!--START_SECTION:waka-->
 ```
@@ -35,6 +36,13 @@ python3 Brute-nsta.py
 ```
 <!--END_SECTION:waka-->
 ---------------------
+
+How to use :
+- 1 -  Create an email.txt file and put the emails inside it, and also create a proxy.txt file and put the proxies inside it
+- 2 - Now run the tool, it will ask you to enter the name of the emails file, then enter the name of the proxy file, enter their names, then the tool will work without problems
+
+-----------------------
+
 - Note: Do not forget to put the proxy file in the same folder as the tool, and if you are going to use the combo system, also put the combo file in the same folder
 ---------------------
 By JOKER | <a class="" href="https://www.instagram.com/221298">Instagram ☠️</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a> | <a class="" href="http://t.me/TweakPY">telegram 2 🔷</a>
