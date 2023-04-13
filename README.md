@@ -14,12 +14,12 @@ NEW-EMAIL-TIKTOK.txt
 install in kali linux :
 <!--START_SECTION:waka-->
 ```
-sudo git clone https://github.com/vv1ck/Brute-Force-instagram
+sudo git clone https://github.com/vv1ck/checker-email-tiktok
 ```
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-->
 ```
-cd Brute-Force-instagram
+cd checker-email-tiktok
 ```
 <!--END_SECTION:waka-->
 -----------------------
@@ -32,7 +32,7 @@ pip install requests
 - Then run the tool :
 <!--START_SECTION:waka-->
 ```
-python3 Brute-nsta.py
+python3 CHECKER_EMAILS_TIKTOK.py
 ```
 <!--END_SECTION:waka-->
 ---------------------
@@ -41,9 +41,6 @@ How to use :
 - 1 -  Create an email.txt file and put the emails inside it, and also create a proxy.txt file and put the proxies inside it
 - 2 - Now run the tool, it will ask you to enter the name of the emails file, then enter the name of the proxy file, enter their names, then the tool will work without problems
 
------------------------
-
-- Note: Do not forget to put the proxy file in the same folder as the tool, and if you are going to use the combo system, also put the combo file in the same folder
 ---------------------
 By JOKER | <a class="" href="https://www.instagram.com/221298">Instagram ☠️</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a> | <a class="" href="http://t.me/TweakPY">telegram 2 🔷</a>
 -
